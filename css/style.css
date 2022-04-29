@@ -10,9 +10,50 @@
 }
 .fonte-cor{
     color: #2BFF59;
-    
+    font-size:50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #005813;
 }
 
 .imagem-jumbo{
     background-image: url(../img/progamador.jpg);
+}
+
+.alterar-texto{
+    font-size: 50px;
+    color:#2BFF59;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #005813;
+}
+.comece-aqui{
+    font-size: 50px;
+    color:#ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+
+}
+
+.apresentaçao{
+    font-size: 25px;
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cor-fundo{
+    background-color: rgba(0, 0, 0, 0.795);
+}
+
+.introduçao{
+    font-size:40px;
+    color:#fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.introduçao-fundo{
+    background-color: rgba(0, 0, 0, 0.466);
+}
+
+.rodape{
+    background-color:#222;
 }
