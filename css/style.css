@@ -10,9 +10,9 @@
 }
 .fonte-cor{
     color: #2BFF59;
-    font-size:50px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    -webkit-text-stroke-width: 2px;
+    font-size:60px;
+    font-family:'Impact', 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
+    -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: #005813;
 }
 
@@ -56,4 +56,27 @@
 
 .rodape{
     background-color:#222;
+}
+
+.contato{
+    font-size: 35px;
+    color: #fff;
+}
+
+.whatsapp{
+    font-size:15px;
+    color: #Fff;
+}
+
+.whatsapp-2{
+    size:30px;
+    color: #25D366 ;
+}
+
+.agaerre{
+    background-color: #fff;
+}
+
+.insta{
+    color: #DD2A7b;
 }
